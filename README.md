@@ -4,6 +4,6 @@ This project involves the development of an AI system in Python, using clusterin
 
 In addition to the AI system itself, a detailed [PDF document][Enllac] is available on the project’s GitHub page. This document explains the functionality of each part of the program, as well as how to use it and the experiments that have been conducted. By providing this information, users can gain a deeper understanding of the inner workings of the AI system and how it can be used to its full potential.
 
-[Enllac]: 
+[Enllac]: https://github.com/YoussefCahouach/ClothingDetectorAI/blob/main/InformePr%C3%A0cticaIA.pdf
 
-![Alt text](<Captura de pantalla 2023-07-25 164539.png>)
+![Captura de pantalla 2023-07-25 164539](https://github.com/YoussefCahouach/ClothingDetectorAI/assets/127397958/ed74b967-adba-4038-8410-73268a69edd6)
