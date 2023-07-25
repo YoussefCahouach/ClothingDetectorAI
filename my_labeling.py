@@ -1,5 +1,5 @@
-__authors__ = ['1636129, 1636546, 1638618']
-__group__ = 'DL.12'
+__authors__ = ['']
+__group__ = ''
 
 from utils_data import read_dataset, read_extended_dataset, crop_images, visualize_retrieval, visualize_k_means, \
     Plot3DCloud
