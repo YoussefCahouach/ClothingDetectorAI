@@ -9,6 +9,6 @@ In addition to the AI system itself, a detailed [PDF document][Enllac] is availa
 
 <br>
 
-[Enllac]: https://github.com/YoussefCahouach/ClothingDetectorAI/blob/main/InformePr%C3%A0cticaIA.pdf
+[Enllac]: https://github.com/YssfDevOps/ClothingDetectorAI/blob/main/InformePr%C3%A0cticaIA.pdf
 
 ![Captura de pantalla 2023-07-25 164539](https://github.com/YoussefCahouach/ClothingDetectorAI/assets/127397958/ed74b967-adba-4038-8410-73268a69edd6)
