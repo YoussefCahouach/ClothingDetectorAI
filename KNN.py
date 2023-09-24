@@ -16,7 +16,7 @@ class KNN:
         #############################################################
 
     def _init_train(self, train_data):
-        """
+        """ 
         initializes the train data
         :param train_data: PxMxNx3 matrix corresponding to P color images
         :return: assigns the train set to the matrix self.train_data shaped as PxD (P points in a D dimensional space)
